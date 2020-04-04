@@ -1,0 +1,82 @@
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\bin\Debug\Store Mangment.exe.config
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\bin\Debug\Store Mangment.exe
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\bin\Debug\Store Mangment.pdb
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.Main.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.Properties.Resources.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store Mangment.exe
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store Mangment.pdb
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Add_product.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.products.Update_product.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.products.Sold_productslist.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\bin\Debug\itextsharp.dll
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Categorys.Add_category.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Login.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Mails.Mail_form.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Orders.Add_orders.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.products.Products_return.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Suppliers.Add_supplier.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Users.Add_user.resources
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csproj.CopyComplete
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\bin\Debug\Store Mangment.exe.manifest
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\bin\Debug\Store Mangment.application
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store Mangment.TrustInfo.xml
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store Mangment.exe.manifest
+C:\Users\Admin\source\repos\Store Mangment\Store Mangment\obj\Debug\Store Mangment.application
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\bin\Debug\Store Mangment.exe.config
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\bin\Debug\Store Mangment.exe.manifest
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\bin\Debug\Store Mangment.application
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\bin\Debug\Store Mangment.exe
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\bin\Debug\Store Mangment.pdb
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csprojAssemblyReference.cache
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Categorys.Add_category.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Login.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Mails.Mail_form.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.Main.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Orders.Add_orders.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Add_product.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.Properties.Resources.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.products.Products_return.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.products.Sold_productslist.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.products.Update_product.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Suppliers.Add_supplier.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Users.Add_user.resources
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csproj.GenerateResource.cache
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csproj.CoreCompileInputs.cache
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.TrustInfo.xml
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.exe.manifest
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.application
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csproj.CopyComplete
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.exe
+C:\Users\shadi\OneDrive\שולחן העבודה\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.pdb
+C:\project final\new\Store Mangment\Store Mangment\bin\Debug\Store Mangment.exe.config
+C:\project final\new\Store Mangment\Store Mangment\bin\Debug\Store Mangment.exe.manifest
+C:\project final\new\Store Mangment\Store Mangment\bin\Debug\Store Mangment.application
+C:\project final\new\Store Mangment\Store Mangment\bin\Debug\Store Mangment.exe
+C:\project final\new\Store Mangment\Store Mangment\bin\Debug\Store Mangment.pdb
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csprojAssemblyReference.cache
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Categorys.Add_category.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Login.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Mails.Mail_form.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.Main.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Orders.Add_orders.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Add_product.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.Properties.Resources.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.products.Products_return.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.products.Sold_productslist.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.products.Update_product.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Suppliers.Add_supplier.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store_Mangment.view.Users.Add_user.resources
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csproj.GenerateResource.cache
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csproj.CoreCompileInputs.cache
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.TrustInfo.xml
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.exe.manifest
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.application
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.csproj.CopyComplete
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.exe
+C:\project final\new\Store Mangment\Store Mangment\obj\Debug\Store Mangment.pdb
+C:\project final\new\Store Mangment\Store Mangment\bin\Debug\itextsharp.dll
+C:\project final\new\Store Mangment\Store Mangment\bin\Debug\Zen.Barcode.Core.dll
