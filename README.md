@@ -17,7 +17,5 @@
 <ul>
 <li>Manage Products/suppliers/orders/workers </li>
 <li> generate reports</li>
-<li>WinForm </li>
-<li>DataBase (Ado.Net) i used access database but you can change it </li>
-<li>Reports using itextsharp.dll </li>
+  <li>backup database</li>
 </ul>
