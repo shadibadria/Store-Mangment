@@ -4,7 +4,7 @@
 <h1> Store-Mangment-Graduation Project </h1>
 
 <h2> Desktop App Using C# + Database</h2>
-
+<h3> Project Desgin : https://drive.google.com/file/d/1Bzj4a2lriIiOfgaNg34WYdsFzB_7IpEx/view?usp=sharing <h3>
 <h3> project info </h3>
 <ul>
 <li>C# </li>
